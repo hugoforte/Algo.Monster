@@ -23,6 +23,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="DataStructures.py" />
     <Compile Include="CombinatorialSearch.py" />
     <Compile Include="AmazonTests.py" />
     <Compile Include="Algo.Monster.py" />
